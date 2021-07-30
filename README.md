@@ -1,1 +1,3 @@
 # Code_Summary
+
+Over the last two weeks, I worked with a team of developers in the Tech Academy's Live Project. As a Front end Web Developer, I learned and honed in the necessary skills to work as part of a team, how to troubleshoot coding errors, finding discrepencies in my code, and how to deal with merge conflicts. I have studied HTML, JavaScript, CSS, as well as the implementation of BootStrap. There was a steady degree of difficulty moving through the Live Project, but I persevered through it and learned so much in the process. I also was part of a project management team, which was very beneficial for my growth in the Tech Industry. 
